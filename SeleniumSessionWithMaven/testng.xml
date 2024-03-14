@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Reg_Suite">
+  <test name="Round-1">
+    <classes>
+      <class name="testngExamples.Example1"/>
+      <class name="testngExamples.Example2"/>
+      <class name="testngExamples.Example3"/>
+      <class name="testngExamples.Example4"/>
+      <class name="testngExamples.Example5"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
