@@ -1,0 +1,18 @@
+[
+	{
+		"emp": {
+			"Company": "IBM",
+			"Email": "abc@gmail.com",
+			"ContactNumber": "9764975157",
+			"Name": "Pune"
+		}
+	},
+	{
+		"emp": {
+			"Company": "TCS",
+			"Email": "xyz@gmail.com",
+			"ContactNumber": "9874563215",
+			"Name": "Mumbai"
+		}
+	}
+]
