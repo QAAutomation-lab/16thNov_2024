@@ -1,0 +1,7 @@
+api\utilities\ExtentReportManager.class
+api\utilities\DataProviders.class
+api\endpoints\BaseURLs.class
+api\endpoints\UserEndPoints.class
+api\endpoints\UserEndPointsWithPropertyFile.class
+api\payload\User.class
+api\utilities\ExcelUtil.class
